@@ -1,12 +1,12 @@
 SUPSI 2025  
-Corso d’interaction design, CV428.01  
+Corso d’interaction design, CV429.01  
 Docenti: A. Gysin, G. Profeta  
 
 Elaborato 1: Me, myself and AI  
 
 # Le mie foto nel tempo
 Autore: Cristian Sommaiuolo  
-[Le mie foto nel tempo](https://xiansom.github.io/protocolloMIDI/)
+[Le mie foto nel tempo](https://github.com/XianSom/Le-mie-foto-nel-tempo.git)
 
 
 ## Introduzione e tema

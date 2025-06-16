@@ -32,9 +32,9 @@ La forma del cerchio viene utilizzata a partire dal primo elemento grafico che f
 Al caricamento della pagina l'interfaccia mostra un istogramma circolare con 24 barre, una per ogni ora della giornata o, alternativamente, tramite un pulsante è possibile cambiare la rappresentazione della distribuzione con 12 barre per i mesi dell’anno. 
 L'altezza di ogni barra indica il numero di foto scattate in quella specifica ora o mese selezionato.
 
-[<img src="immagini/ore.png" width="900" alt="DrumMachine">]()
+[<img src="immagini/ore.png" width="900" alt="Grafico_Ore">]()
 
-[<img src="immagini/mesi.png" width="900" alt="Keyboard">]()
+[<img src="immagini/mesi.png" width="900" alt="Grafico_Mesi">]()
 
 Cliccando su una specifica barra rossa si apre un pannello laterale dove è possibile visualizzare le foto associate a quell’intervallo temporale. 
 In questo modo si ha anche la possibilità di avere una visione d'insieme delle foto per estrapolare pattern visivi o eventuali caratteristiche distintive. 

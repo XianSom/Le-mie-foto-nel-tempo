@@ -6,7 +6,7 @@ Elaborato 1: Me, myself and AI
 
 # Le mie foto nel tempo
 Autore: Cristian Sommaiuolo  
-[Le mie foto nel tempo](https://github.com/XianSom/Le-mie-foto-nel-tempo.git)
+[Le mie foto nel tempo](https://xiansom.github.io/Le-mie-foto-nel-tempo/)
 
 
 ## Introduzione e tema

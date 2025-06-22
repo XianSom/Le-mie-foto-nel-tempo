@@ -23,18 +23,18 @@ Questa concezione è presente in molte culture e tradizioni antiche, dove gli ev
 Per la realizzazione dell'interfaccia ho voluto riprendere la forma del cerchio che rirpende quella di un orologio e il concetto di cicli temporali. 
 Per accere all'archivio è stato necessario inserire una prima interazione con un click sul testo "enter" per far approvare dall'utente la riproduzione dei file audio che altrimenti sarebbe bloccata dal browser. 
 
-[<img src="immagini/1.png" width="900" alt="enter">]()
+[<img src="enter.png" width="900" alt="enter">]()
 
 La forma del cerchio viene utilizzata a partire dal primo elemento grafico che funge da barra di caricamento, ma che invece di essere lineare è una circonferenza  bianca che ruota e si colora di rosso quando il caricamento della pagina è stato completato. 
 
-[<img src="immagini/cerchio.png" width="900" alt="loading">]()
+[<img src="loading.png" width="900" alt="loading">]()
 
 Al caricamento della pagina l'interfaccia mostra un istogramma circolare con 24 barre, una per ogni ora della giornata o, alternativamente, tramite un pulsante è possibile cambiare la rappresentazione della distribuzione con 12 barre per i mesi dell’anno. 
 L'altezza di ogni barra indica il numero di foto scattate in quella specifica ora o mese selezionato.
 
-[<img src="immagini/ore.png" width="900" alt="Grafico_Ore">]()
+[<img src="ore.png" width="900" alt="Grafico_Ore">]()
 
-[<img src="immagini/mesi.png" width="900" alt="Grafico_Mesi">]()
+[<img src="mesi.png" width="900" alt="Grafico_Mesi">]()
 
 Cliccando su una specifica barra rossa si apre un pannello laterale dove è possibile visualizzare le foto associate a quell’intervallo temporale. 
 In questo modo si ha anche la possibilità di avere una visione d'insieme delle foto per estrapolare pattern visivi o eventuali caratteristiche distintive. 

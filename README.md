@@ -38,6 +38,9 @@ L'altezza di ogni barra indica il numero di foto scattate in quella specifica or
 
 Cliccando su una specifica barra rossa si apre un pannello laterale dove è possibile visualizzare le foto associate a quell’intervallo temporale. 
 In questo modo si ha anche la possibilità di avere una visione d'insieme delle foto per estrapolare pattern visivi o eventuali caratteristiche distintive. 
+
+[<img src="foto_esempio.png" width="900" alt="Foto">]()
+
 L'intero istogramma è posizionato in uno spazio tridimensionale e può essere ruotato per poter ottimizzare l'esplorazione dei dati. 
 Tramite il click sul pulsante "info" è possibile accedere ad una descrizione del progetto che viene visualizzata in un pannello laterale che si apre da sinistra. 
 
